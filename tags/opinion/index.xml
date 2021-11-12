@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>opinion on My New Hugo Site</title>
+    <link>http://example.org/tags/opinion/</link>
+    <description>Recent content in opinion on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 08 Dec 2020 19:00:31 +1000</lastBuildDate><atom:link href="http://example.org/tags/opinion/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Artificial Intelligent Robots</title>
+      <link>http://example.org/posts/artificial-intelligent-robots/</link>
+      <pubDate>Tue, 08 Dec 2020 19:00:31 +1000</pubDate>
+      
+      <guid>http://example.org/posts/artificial-intelligent-robots/</guid>
+      <description>Some people believe that eventually all jobs will be done by artificially intelligent robots. What is your opinion?
+ Artificial intelligent robots are gradually replacing workers in the workforce. While it is possible that all repetitive tasks will be automated by robots, I personally believe that some jobs which require human intervention will never be replaced.
+On the one hand, robotic machines could undoubtedly perform mundane, labor-intensive and repetitive jobs not only quicker and cheaper but also more precise than human counterparts.</description>
+    </item>
+    
+  </channel>
+</rss>

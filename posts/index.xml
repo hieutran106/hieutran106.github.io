@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>http://example.org/posts/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 04 Aug 2021 20:07:44 +1000</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Extracurricular activities are just a distraction</title>
+      <link>http://example.org/posts/extracurricular-activities/</link>
+      <pubDate>Wed, 04 Aug 2021 20:07:44 +1000</pubDate>
+      
+      <guid>http://example.org/posts/extracurricular-activities/</guid>
+      <description>Extracurricular activities are just a distraction from academic activities and bring students very few actual benefits. How far do you agree with this statement? Support your point of view with reasons and/or examples from your own experience.
+ In today&amp;rsquo;s world, designing a good school curriculum has been a heated discussion. Some educators think there are few benefits gained from extracurricular activities while these activities put extra burden on students.</description>
+    </item>
+    
+    <item>
+      <title>Older professional people to retrain as school teachers</title>
+      <link>http://example.org/posts/older-professionals-become-teacher/</link>
+      <pubDate>Fri, 09 Jul 2021 20:07:44 +1000</pubDate>
+      
+      <guid>http://example.org/posts/older-professionals-become-teacher/</guid>
+      <description>In some countries, there have been schemes to encourage older professional people to retrain as school teachers. Do you feel that this is likely to have beneficial effects on education? Support your point of view with reasons and/or examples from your own experience.
+ In many countries, the scarcity of high quality teachers has put great pressure on the education system. In these countries, educational strategists come up with schemes to encourage senior members in the workforce to teach at schools.</description>
+    </item>
+    
+    <item>
+      <title>Vaccinating Children</title>
+      <link>http://example.org/posts/vaccinating-children/</link>
+      <pubDate>Wed, 16 Dec 2020 20:07:44 +1000</pubDate>
+      
+      <guid>http://example.org/posts/vaccinating-children/</guid>
+      <description>Vaccinating children against preventable diseases is not only unnecessary but also dangerous. To what extend do you agree or disagree?
+ Vaccinating children is discouraged among certain demographics in society. These people claim that vaccinations are unsafe for children&amp;rsquo;s health and as such are not needed. This essay will discuss why vaccinating against widespread diseases are extremely vital to the health of children and society, despite some potential risks.</description>
+    </item>
+    
+    <item>
+      <title>Rankings of Australia</title>
+      <link>http://example.org/posts/decribe-image/rankings-of-australia/</link>
+      <pubDate>Sun, 13 Dec 2020 10:35:57 +1000</pubDate>
+      
+      <guid>http://example.org/posts/decribe-image/rankings-of-australia/</guid>
+      <description>The graph shows the performance of Australia among 194 nations. It ranks 19th in terms of GNP per person at 32,200 US dollars. Life expentancy for Australians is 80 years, ranking 6th in the world. Its literacy rate is the highest in the world with 99% of the population able to read and write. It ranks 20th on the measure of infant mortality with 5 deaths per 1000 live births. Australia is rated 3rd on the Human Development Index.</description>
+    </item>
+    
+    <item>
+      <title>Smacking Children</title>
+      <link>http://example.org/posts/smacking-children/</link>
+      <pubDate>Fri, 11 Dec 2020 11:52:54 +1000</pubDate>
+      
+      <guid>http://example.org/posts/smacking-children/</guid>
+      <description>Smacking children is the best form of discipline. To what extent do you agree or disagree?
+ Using physical punishment in raising children is commonplace in some demographics in society. These people believe that smacking children is the most effective means to maintain a high standard of discipline. This essay will argue why violent methods are unnecessary despite some reasonable explanations.
+Smacking children has long been proven to be an effective way of getting children behaved.</description>
+    </item>
+    
+    <item>
+      <title>Artificial Intelligent Robots</title>
+      <link>http://example.org/posts/artificial-intelligent-robots/</link>
+      <pubDate>Tue, 08 Dec 2020 19:00:31 +1000</pubDate>
+      
+      <guid>http://example.org/posts/artificial-intelligent-robots/</guid>
+      <description>Some people believe that eventually all jobs will be done by artificially intelligent robots. What is your opinion?
+ Artificial intelligent robots are gradually replacing workers in the workforce. While it is possible that all repetitive tasks will be automated by robots, I personally believe that some jobs which require human intervention will never be replaced.
+On the one hand, robotic machines could undoubtedly perform mundane, labor-intensive and repetitive jobs not only quicker and cheaper but also more precise than human counterparts.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on My New Hugo Site</title>
+    <link>http://example.org/tags/</link>
+    <description>Recent content in Tags on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 04 Aug 2021 20:07:44 +1000</lastBuildDate><atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>agree or disagree</title>
+      <link>http://example.org/tags/agree-or-disagree/</link>
+      <pubDate>Wed, 04 Aug 2021 20:07:44 +1000</pubDate>
+      
+      <guid>http://example.org/tags/agree-or-disagree/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>smacking children</title>
+      <link>http://example.org/tags/smacking-children/</link>
+      <pubDate>Fri, 11 Dec 2020 11:52:54 +1000</pubDate>
+      
+      <guid>http://example.org/tags/smacking-children/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>artificial intelligence</title>
+      <link>http://example.org/tags/artificial-intelligence/</link>
+      <pubDate>Tue, 08 Dec 2020 19:00:31 +1000</pubDate>
+      
+      <guid>http://example.org/tags/artificial-intelligence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>opinion</title>
+      <link>http://example.org/tags/opinion/</link>
+      <pubDate>Tue, 08 Dec 2020 19:00:31 +1000</pubDate>
+      
+      <guid>http://example.org/tags/opinion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>robots</title>
+      <link>http://example.org/tags/robots/</link>
+      <pubDate>Tue, 08 Dec 2020 19:00:31 +1000</pubDate>
+      
+      <guid>http://example.org/tags/robots/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

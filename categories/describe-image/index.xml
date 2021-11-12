@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Describe Image on My New Hugo Site</title>
+    <link>http://example.org/categories/describe-image/</link>
+    <description>Recent content in Describe Image on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 13 Dec 2020 10:35:57 +1000</lastBuildDate><atom:link href="http://example.org/categories/describe-image/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rankings of Australia</title>
+      <link>http://example.org/posts/decribe-image/rankings-of-australia/</link>
+      <pubDate>Sun, 13 Dec 2020 10:35:57 +1000</pubDate>
+      
+      <guid>http://example.org/posts/decribe-image/rankings-of-australia/</guid>
+      <description>The graph shows the performance of Australia among 194 nations. It ranks 19th in terms of GNP per person at 32,200 US dollars. Life expentancy for Australians is 80 years, ranking 6th in the world. Its literacy rate is the highest in the world with 99% of the population able to read and write. It ranks 20th on the measure of infant mortality with 5 deaths per 1000 live births. Australia is rated 3rd on the Human Development Index.</description>
+    </item>
+    
+  </channel>
+</rss>

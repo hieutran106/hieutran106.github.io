@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>smacking children on My New Hugo Site</title>
+    <link>http://example.org/tags/smacking-children/</link>
+    <description>Recent content in smacking children on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 11 Dec 2020 11:52:54 +1000</lastBuildDate><atom:link href="http://example.org/tags/smacking-children/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Smacking Children</title>
+      <link>http://example.org/posts/smacking-children/</link>
+      <pubDate>Fri, 11 Dec 2020 11:52:54 +1000</pubDate>
+      
+      <guid>http://example.org/posts/smacking-children/</guid>
+      <description>Smacking children is the best form of discipline. To what extent do you agree or disagree?
+ Using physical punishment in raising children is commonplace in some demographics in society. These people believe that smacking children is the most effective means to maintain a high standard of discipline. This essay will argue why violent methods are unnecessary despite some reasonable explanations.
+Smacking children has long been proven to be an effective way of getting children behaved.</description>
+    </item>
+    
+  </channel>
+</rss>

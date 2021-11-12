@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://example.org/tags/agree-or-disagree/</loc>
+    <lastmod>2021-08-04T20:07:44+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/extracurricular-activities/</loc>
+    <lastmod>2021-08-04T20:07:44+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/</loc>
+    <lastmod>2021-08-04T20:07:44+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/</loc>
+    <lastmod>2021-08-04T20:07:44+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/</loc>
+    <lastmod>2021-08-04T20:07:44+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/older-professionals-become-teacher/</loc>
+    <lastmod>2021-07-09T20:07:44+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/vaccinating-children/</loc>
+    <lastmod>2020-12-16T20:07:44+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/</loc>
+    <lastmod>2020-12-13T10:35:57+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/describe-image/</loc>
+    <lastmod>2020-12-13T10:35:57+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/decribe-image/rankings-of-australia/</loc>
+    <lastmod>2020-12-13T10:35:57+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/smacking-children/</loc>
+    <lastmod>2020-12-11T11:52:54+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/smacking-children/</loc>
+    <lastmod>2020-12-11T11:52:54+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/artificial-intelligence/</loc>
+    <lastmod>2020-12-08T19:00:31+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/artificial-intelligent-robots/</loc>
+    <lastmod>2020-12-08T19:00:31+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/opinion/</loc>
+    <lastmod>2020-12-08T19:00:31+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/robots/</loc>
+    <lastmod>2020-12-08T19:00:31+10:00</lastmod>
+  </url>
+  
+</urlset>
