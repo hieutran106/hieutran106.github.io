@@ -3,7 +3,7 @@ export const SITE = {
   author: "Hieu Tran",
   profile: "https://hieutran106.github.io/",
   desc: "A minimal, responsive and SEO-friendly Astro blog theme.",
-  title: "AstroPaper",
+  title: "hieutran106",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
   postPerIndex: 4,
