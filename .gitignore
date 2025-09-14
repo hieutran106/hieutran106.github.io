@@ -7,6 +7,9 @@
 .DS_Store
 Thumbs.db
 
+# Mac OS hidden file
+._*
+
 # Editor/IDE files
 .vscode/
 .idea/
